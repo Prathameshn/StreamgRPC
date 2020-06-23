@@ -1,0 +1,17 @@
+{
+  "name": "serverstreamgrpc",
+  "version": "1.0.0",
+  "description": "This article will explain how to Use Streams in GRPC in a NodeJS Application.",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@grpc/proto-loader": "^0.5.4",
+    "grpc": "^1.24.3",
+    "lodash": "^4.17.15"
+  }
+}
